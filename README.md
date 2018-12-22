@@ -9,7 +9,7 @@
     </thead>
     <tr>
         <td style="width:30%">Akshat khanna</td>
-        <td><img src="https://avatars2.githubusercontent.com/u/13203312?s=460&v=4" style="width:50%"></td>
+        <td><img src="https://avatars2.githubusercontent.com/u/13203312?s=460&v=4" style="width:20%"></td>
     </tr>
 </table>
 
