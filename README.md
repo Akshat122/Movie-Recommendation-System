@@ -8,7 +8,10 @@
         </tr>
     </thead>
     <tr>
-        <td>Akshat khanna</td>
-        <td>![Akshat khanna](https://avatars2.githubusercontent.com/u/13203312?s=460&v=4)</td>
+        <td style="width:30%">Akshat khanna</td>
+        <td><img src="https://avatars2.githubusercontent.com/u/13203312?s=460&v=4" style="width:50%"></td>
     </tr>
 </table>
+
+
+
